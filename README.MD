@@ -123,10 +123,3 @@ Second, you added features to your applications, by using Ambar to connect exist
 of this without a single line of code that wasn't business logic. This just scratches the surface of what Ambar 
 is capable of.  If you're interested in learning more about how Ambar can help your business benefit from real time, 
 error free data streaming, let the Ambar team know.
-
-
-
-
-
-
-
